@@ -92,7 +92,7 @@ const Projects = () => {
       image: '/project1.png',
       description: 'A full-stack Blood funding and humanity platform with user authentication, role management, and payment integration.',
       technologies: ['React', 'Node.js', 'MongoDB', 'jwt token', 'firebase'],
-      liveLink: 'https://blood-donation-11.vercel.app/'
+      liveLink: 'https://blood-donation-11.vercel.app/',
       githubLink: 'https://github.com/annu12332/Blood-donation-11'
     },
     {
@@ -101,7 +101,7 @@ const Projects = () => {
       image: '/project2.png',
       description: 'A Pets adoption and buy and sell website.',
       technologies: ['React', 'Firebase', 'Tailwind CSS', 'Mongo DB', 'Context API'],
-      liveLink: 'https://assignment-ten-three.vercel.app/'
+      liveLink: 'https://assignment-ten-three.vercel.app/',
       githubLink: 'https://github.com/annu12332/assignment-ten'
     },
     {
@@ -110,7 +110,7 @@ const Projects = () => {
       image: '/project3.png',
       description: 'A Pets care website for pet parents.',
       technologies: ['React', 'Firebase', 'Js', 'Tailwind css'],
-      liveLink: 'https://anas-pawpaw.surge.sh/services'
+      liveLink: 'https://anas-pawpaw.surge.sh/services',
       githubLink: 'https://github.com/annu12332/Assignment-nine'
     }
   ];
